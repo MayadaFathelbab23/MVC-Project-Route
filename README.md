@@ -12,6 +12,7 @@
 * .NET 5.0 - C#
 * Entity Framwork Core
 * LINQ
+* Html - CSS - JS
 * Identity Package
 * 3-Tier Archeticture pattern
 * Unit Of Work and Generic Repository pattern
